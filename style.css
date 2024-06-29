@@ -116,7 +116,7 @@ body {
 }
 
 .recipe h2 {
-  color: var(--clr-Dark-Charcoal);
+  color: var(--clr-Nutmeg);
 }
 
 @media (max-width: 650px) {
